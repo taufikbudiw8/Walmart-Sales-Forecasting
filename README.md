@@ -8,3 +8,7 @@ Walmart, a multinational retail corporation, is operating numerous stores across
 
 The primary challenge facing Walmart is the need to make effective strategic decisions based on limited historical data. Traditional retail businesses often rely on historical data to plan for seasonal events, but these opportunities come only once a year. In particular, Walmart faces difficulties during key holiday periods, including the Super Bowl, Labor Day, Thanksgiving, and Christmas, where they run promotional markdown events. The challenge is that they lack complete or ideal historical data to model the impact of these markdowns on sales during these holiday weeks. Walmart needs a solution that helps them make data-driven decisions for optimizing sales during these critical holiday periods and throughout the year.
 
+___
+*youtube link : [https://youtu.be/AGecFGATlPI](https://youtu.be/lMeOwJo0RAI)*
+
+*report link : [https://medium.com/@wtaufikbudi/a-deep-dive-into-employee-attrition-patterns-and-insights-3c11e2179d3f](https://medium.com/@wtaufikbudi/enhancing-walmart-sales-forecasting-with-machine-learning-strategies-and-insights-39cdfc994f32)https://medium.com/@wtaufikbudi/enhancing-walmart-sales-forecasting-with-machine-learning-strategies-and-insights-39cdfc994f32*
